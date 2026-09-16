@@ -1,0 +1,17 @@
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces Tổng quan dữ liệu dùng trong Assignment 04}}{2}{table.caption.5}%
+\contentsline {table}{\numberline {1.2}{\ignorespaces Kích thước các tập dữ liệu thực tế trong hai notebook}}{3}{table.caption.6}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Cấu hình CNN NumPy theo từng dataset}}{6}{table.caption.7}%
+\contentsline {table}{\numberline {2.2}{\ignorespaces Kiến trúc và cấu hình hai framework}}{6}{table.caption.8}%
+\contentsline {table}{\numberline {2.3}{\ignorespaces Một số hướng phát triển tiêu biểu từ CNN cơ bản}}{7}{table.caption.9}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Benchmark ba cách cài đặt CNN trên MNIST}}{9}{table.caption.12}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Accuracy theo lớp của mô hình tốt nhất trên MNIST (PyTorch CNN)}}{11}{table.caption.16}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Benchmark ba cách cài đặt CNN trên CIFAR-10}}{13}{table.caption.20}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Accuracy theo lớp của mô hình tốt nhất trên CIFAR-10 (PyTorch CNN)}}{15}{table.caption.24}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Mô hình tốt nhất và CNN NumPy trên mỗi dataset}}{16}{table.caption.26}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces Ưu điểm, hạn chế và vai trò của ba cách cài đặt}}{16}{table.caption.27}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces Checklist tái lập Assignment 04}}{17}{table.caption.28}%

@@ -1,0 +1,29 @@
+\contentsline {chapter}{Thông tin dự án}{1}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Bài toán, dữ liệu và quy trình đánh giá}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Mục tiêu và phạm vi thực nghiệm}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Hai bộ dữ liệu ở hai mức độ khó}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Tách dữ liệu và chuẩn hóa}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Metric và nguyên tắc đọc kết quả}{3}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Từ nền tảng CNN đến ba cách cài đặt}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Phép tích chập và feature map}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}ReLU, pooling và receptive field}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Softmax, Cross-Entropy và backpropagation}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Training loop thuần NumPy}{5}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Cấu hình mô hình và chính sách huấn luyện}{6}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Vị trí của residual network trong tiến trình CNN}{7}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Đối chuẩn trên MNIST}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Dữ liệu và cấu hình riêng}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Kết quả test set}{9}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Diễn biến huấn luyện}{10}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Ma trận nhầm lẫn và phân tích lỗi}{10}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Đối chuẩn trên CIFAR-10}{12}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Dữ liệu và cấu hình riêng}{12}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Kết quả test set}{13}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Diễn biến huấn luyện}{14}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Độ khó theo lớp và các lỗi nổi bật}{14}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Đối chiếu tổng hợp và kết luận}{16}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Kết quả chính giữa hai dataset}{16}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Vai trò của ba cách cài đặt}{16}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Giới hạn của phép đối chuẩn}{17}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Khả năng tái lập}{17}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Kết luận và hướng mở rộng}{18}{section.5.5}%

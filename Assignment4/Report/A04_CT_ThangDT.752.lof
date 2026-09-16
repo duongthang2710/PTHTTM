@@ -1,0 +1,17 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Phân phối lớp của MNIST trên tập train gốc và test}}{8}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Một ảnh đại diện cho mỗi lớp chữ số trong MNIST}}{8}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Bốn metric phân loại của ba mô hình trên MNIST}}{9}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Train/validation loss và accuracy trên MNIST}}{10}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Ma trận nhầm lẫn chuẩn hóa của ba mô hình trên MNIST}}{10}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Các lỗi có confidence cao nhất của PyTorch CNN trên MNIST}}{11}{figure.caption.17}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Phân phối cân bằng của CIFAR-10}}{12}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Một ảnh đại diện cho mỗi lớp trong CIFAR-10}}{12}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Bốn metric phân loại của ba mô hình trên CIFAR-10}}{13}{figure.caption.21}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Train/validation loss và accuracy trên CIFAR-10}}{14}{figure.caption.22}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Ma trận nhầm lẫn chuẩn hóa của ba mô hình trên CIFAR-10}}{14}{figure.caption.23}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Các lỗi có confidence cao nhất của PyTorch CNN trên CIFAR-10}}{15}{figure.caption.25}%
+\addvspace {10\p@ }
