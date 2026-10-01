@@ -1,0 +1,15 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Minh họa sự suy giảm của tích đạo hàm tanh theo số bước BPTT}}{3}{figure.caption.5}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces EDA tổng quan lịch sử giá, phân phối Close, biến động ngày và volume Amazon}}{6}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Rolling statistics, correlation OHLCV và lợi suất năm của Amazon}}{7}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Learning curves, actual--predicted và residual trên test Amazon}}{8}{figure.caption.12}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Phân phối giá, xu hướng tuần, volume và so sánh region của Avocado}}{9}{figure.caption.13}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Correlation, quan hệ giá--volume, seasonality và biến thiên theo nhóm}}{10}{figure.caption.14}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Learning curves, dự báo TotalUS--conventional và residual Avocado}}{11}{figure.caption.16}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Giao diện localhost Amazon sau khi dự báo bằng PyTorch}}{13}{figure.caption.18}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Giao diện localhost Avocado cho TotalUS--conventional sau khi dự báo bằng PyTorch}}{14}{figure.caption.19}%
+\addvspace {10\p@ }

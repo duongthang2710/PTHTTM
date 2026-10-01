@@ -1,0 +1,14 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Tổng quan hai dataset của Assignment 06}}{4}{table.caption.6}%
+\contentsline {table}{\numberline {2.2}{\ignorespaces Số mẫu train, validation và test}}{4}{table.caption.7}%
+\contentsline {table}{\numberline {2.3}{\ignorespaces Cấu hình huấn luyện chung}}{5}{table.caption.8}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Kết quả test trên Amazon Stock Price}}{7}{table.caption.11}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Kết quả test tổng hợp trên 108 chuỗi Avocado}}{10}{table.caption.15}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Đầu vào của hai ứng dụng deploy}}{12}{table.caption.17}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Mô hình có RMSE thấp nhất trong từng dataset}}{15}{table.caption.20}%
+\contentsline {table}{\numberline {6.2}{\ignorespaces Checklist tái lập Assignment 06}}{15}{table.caption.21}%
