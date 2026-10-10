@@ -1,0 +1,16 @@
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces Các cột mốc tiêu biểu trong lịch sử AI}}{2}{table.caption.4}%
+\contentsline {table}{\numberline {1.2}{\ignorespaces Ba cách tiếp cận trong lịch sử AI và câu hỏi đánh giá phù hợp}}{6}{table.caption.5}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Ba dataset được dùng trong Chương 2}}{10}{table.caption.6}%
+\contentsline {table}{\numberline {2.2}{\ignorespaces Ba mô hình được chọn trên customer comments (test set)}}{11}{table.caption.9}%
+\contentsline {table}{\numberline {2.3}{\ignorespaces Ba mô hình được chọn trên diabetes large (test set)}}{14}{table.caption.15}%
+\contentsline {table}{\numberline {2.4}{\ignorespaces Ba mô hình được chọn trên house price (test set)}}{18}{table.caption.21}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Kích thước và cách chia dữ liệu CNN}}{22}{table.caption.25}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Ba CNN trên full test set MNIST}}{24}{table.caption.29}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Ba CNN trên full test set CIFAR-10}}{28}{table.caption.36}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Nhiệm vụ dự báo và cách chia dữ liệu RNN}}{33}{table.caption.41}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Ba mô hình trên test Amazon Stock Price}}{36}{table.caption.44}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Ba mô hình trên test Avocado Price}}{37}{table.caption.49}%

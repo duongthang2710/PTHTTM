@@ -1,0 +1,40 @@
+\contentsline {chapter}{\numberline {1}Lịch sử phát triển của trí tuệ nhân tạo}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Từ câu hỏi triết học đến bài toán tính toán}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Dartmouth và sự ra đời của một lĩnh vực}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}AI biểu tượng: sức mạnh và giới hạn}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Các thời kỳ suy giảm kỳ vọng}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Từ quy tắc viết tay sang học máy thống kê}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Mạng nơ-ron và học sâu trở lại}{4}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Từ mô hình chuyên biệt đến mô hình nền tảng}{4}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Những dòng nghiên cứu song song}{5}{section.1.8}%
+\contentsline {section}{\numberline {1.9}Dữ liệu, phép đo và khả năng tái lập}{5}{section.1.9}%
+\contentsline {section}{\numberline {1.10}Các bước chuyển trong thị giác và ngôn ngữ}{6}{section.1.10}%
+\contentsline {section}{\numberline {1.11}AI hiện đại như một hệ thống hoàn chỉnh}{7}{section.1.11}%
+\contentsline {chapter}{\numberline {2}Các kỹ thuật học máy cơ bản}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Bài toán, quy trình và nguyên tắc so sánh}{9}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Các họ mô hình cơ bản}{9}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Metric theo bản chất nhiệm vụ}{10}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Customer comments: phân loại nhận xét mua sắm}{10}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Diabetes large: phân loại nguy cơ tiểu đường}{12}{section.2.3}%
+\contentsline {section}{\numberline {2.4}House price: hồi quy giá bất động sản}{17}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Tổng hợp Chương 2}{19}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Mạng nơ-ron tích chập}{21}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Từ ảnh số đến đặc trưng không gian}{21}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Huấn luyện và các kỹ thuật cải thiện}{21}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Kích thước feature map và số tham số}{22}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Công bằng trong benchmark và ý nghĩa thời gian}{22}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}MNIST: chữ số viết tay}{23}{section.3.2}%
+\contentsline {section}{\numberline {3.3}CIFAR-10: ảnh vật thể tự nhiên}{26}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Phân tích lỗi và lựa chọn mô hình khi sử dụng}{30}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Tổng hợp Chương 3}{31}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Mạng nơ-ron hồi tiếp}{32}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Chuỗi thời gian và trạng thái ẩn}{32}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Thiết kế dự báo và chống rò rỉ tương lai}{32}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Ví dụ về cửa sổ, chuẩn hóa và phép đo}{33}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Đọc biểu đồ dự báo thay vì chỉ đọc bảng}{34}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Amazon Stock Price: dự báo giá đóng cửa}{34}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Avocado Price: nhiều chuỗi giá theo thị trường}{36}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Kiểm tra luồng deploy trên localhost}{39}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Giới hạn của hai bài toán dự báo}{40}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Tổng hợp Chương 4 và ý nghĩa triển khai}{41}{section.4.6}%
+\contentsline {chapter}{Tài liệu tham khảo}{42}{chapter*.52}%

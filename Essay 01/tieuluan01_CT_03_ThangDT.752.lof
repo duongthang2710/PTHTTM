@@ -1,0 +1,40 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Phân bố nhãn, độ dài nhận xét và các thống kê mô tả của customer comments.}}{11}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Các từ xuất hiện nhiều theo lớp nhãn; tần suất từ chỉ mô tả dữ liệu, chưa chứng minh giá trị dự báo.}}{11}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces So sánh các metric phân loại customer comments trong notebook gốc; biểu đồ gốc có thêm Random Forest ngoài ba mô hình được chọn.}}{12}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Ma trận nhầm lẫn chuẩn hóa của benchmark gốc; đối chiếu ba mô hình trong Bảng~\ref {tab:comments-results}.}}{13}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Giao diện deploy customer comments với nhận xét đầu vào, mô hình và kết quả dự đoán.}}{13}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Phân phối biến số trên diabetes large theo nhãn.}}{14}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Tỷ lệ tiểu đường theo các biến phân loại trong dữ liệu khảo sát.}}{14}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Biểu đồ metric diabetes large của notebook gốc, gồm thêm Gaussian Naive Bayes; bảng trong tiểu luận chỉ so sánh ba mô hình đã chọn.}}{15}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Ma trận nhầm lẫn của benchmark gốc; cần đặc biệt quan sát số âm tính giả ở lớp dương.}}{15}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Giao diện deploy diabetes large với các chỉ số đầu vào, mô hình và kết quả dự đoán.}}{16}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Khảo sát giá nhà, dữ liệu thiếu và đặc trưng bất động sản.}}{17}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Phân phối các biến số chính trong mẫu nhà được xử lý.}}{17}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Biểu đồ so sánh hồi quy của benchmark gốc, có thêm Ridge Regression ngoài ba mô hình của tiểu luận.}}{18}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Phân tích phần dư của mô hình tốt nhất để nhận diện các miền giá khó dự báo.}}{18}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Giao diện deploy house price với thông tin căn nhà, mô hình và giá dự đoán.}}{20}{figure.caption.24}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Ảnh mẫu đại diện cho mười lớp chữ số trong MNIST.}}{23}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Phân bố nhãn train và test của MNIST.}}{23}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Loss và accuracy theo epoch của ba CNN trên MNIST.}}{24}{figure.caption.28}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces So sánh Accuracy, Macro-Precision, Macro-Recall và Macro-F1 trên MNIST.}}{25}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Ma trận nhầm lẫn chuẩn hóa của ba CNN MNIST.}}{25}{figure.caption.31}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Giao diện deploy MNIST với chữ số đầu vào, mô hình và kết quả phân loại.}}{26}{figure.caption.32}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Ví dụ ảnh của từng lớp CIFAR-10: cùng một nhãn vẫn có nhiều góc nhìn và nền khác nhau.}}{27}{figure.caption.33}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Phân bố cân bằng của CIFAR-10 trên train và test.}}{27}{figure.caption.34}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Đường học của ba CNN trên CIFAR-10; validation cho thấy độ khó lớn hơn MNIST.}}{28}{figure.caption.35}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces So sánh các metric phân loại CIFAR-10 trên cùng full test set.}}{29}{figure.caption.37}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Ma trận nhầm lẫn theo lớp của ba CNN CIFAR-10.}}{29}{figure.caption.38}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Giao diện deploy CIFAR-10 với ảnh đầu vào, mô hình và nhãn dự đoán.}}{30}{figure.caption.39}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Minh họa sự suy giảm gradient khi truyền qua nhiều bước thời gian.}}{33}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Chuỗi Close, phân phối mức giá, thay đổi ngày và volume trong dữ liệu Amazon.}}{35}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Rolling statistics, tương quan các cột OHLCV và thay đổi theo năm.}}{35}{figure.caption.43}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Learning curves, giá thực so với dự báo và residual trên test Amazon.}}{36}{figure.caption.45}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Giao diện deploy Amazon với chuỗi giá Close, framework và giá phiên kế tiếp dự đoán.}}{37}{figure.caption.46}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Tổng quan mức giá, sản lượng và khác biệt giữa các nhóm Avocado.}}{38}{figure.caption.47}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Mẫu hình mùa vụ, tương quan và biến động giá Avocado.}}{38}{figure.caption.48}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Đường học, actual--predicted và residual của Avocado trong notebook.}}{39}{figure.caption.50}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Giao diện deploy Avocado với region, type, chuỗi giá, framework và kết quả dự đoán.}}{40}{figure.caption.51}%
