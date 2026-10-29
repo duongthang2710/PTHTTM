@@ -1,0 +1,19 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Vòng tương tác của hai agent trong một bước thời gian.}}{3}{figure.caption.4}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Thí nghiệm B: thưởng mỗi bước theo episode, trung bình cửa sổ $K=100$, tỷ lệ giảm giá của RL và $\varepsilon $ (seed 42).}}{15}{figure.caption.10}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Giá trị kỳ vọng chính xác của chính sách tham lam trong lúc huấn luyện (seed 42).}}{15}{figure.caption.11}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Quỹ đạo tám giá trị Q cuối mỗi episode (seed 42).}}{16}{figure.caption.12}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Thí nghiệm C: đường học (TB $\pm $ SD trên 10 seed, cửa sổ 100 episode).}}{17}{figure.caption.14}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Thí nghiệm C: hiệu $Q((0,0),0)-Q((0,0),1)$ theo episode, một lần chạy với seed 1042 cho mỗi $\alpha $.}}{17}{figure.caption.15}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Thí nghiệm C: thưởng đánh giá theo $\alpha $.}}{17}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Thí nghiệm D: đường học theo cấu hình khám phá (TB $\pm $ SD trên 10 seed).}}{18}{figure.caption.18}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Thí nghiệm D: thưởng đánh giá theo cấu hình khám phá.}}{19}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Thí nghiệm E: RL và luật trên cùng chuỗi nhu cầu theo từng seed.}}{20}{figure.caption.22}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Câu 8: thưởng và tỷ lệ giảm giá trong huấn luyện khi đối thủ cố định và khi hai agent cùng học (TB 10 seed).}}{26}{figure.caption.26}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Câu 9--10: lợi nhuận đánh giá khi thị trường thay đổi.}}{28}{figure.caption.29}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }

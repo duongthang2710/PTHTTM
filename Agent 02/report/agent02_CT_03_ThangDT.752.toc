@@ -1,0 +1,40 @@
+\contentsline {chapter}{\numberline {1}Giới thiệu và mục tiêu}{1}{chapter.1}%
+\contentsline {paragraph}{Kết luận chính.}{1}{Item.4}%
+\contentsline {chapter}{\numberline {2}Môi trường và hai agent}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Trạng thái, hành động và động lực môi trường}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Agent A: Q-learning dạng bảng}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Agent B: chính sách dựa trên luật}{3}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Phân tích lợi nhuận kỳ vọng một bước}{3}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Cài đặt và thiết lập thí nghiệm}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Kiến trúc chương trình}{5}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Các thay đổi so với mã tham khảo}{5}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Tham số và quy trình đánh giá}{6}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Trích đoạn mã nguồn chính}{6}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Mô hình thị trường và môi trường}{7}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Agent Q-learning}{8}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Agent dựa trên luật}{9}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Vòng huấn luyện}{9}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Đánh giá tách biệt và đánh giá chính xác}{10}{subsection.3.4.5}%
+\contentsline {chapter}{\numberline {4}Kết quả thí nghiệm}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Thí nghiệm A: baseline}{13}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Thí nghiệm B: quá trình học}{14}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Thí nghiệm C: tốc độ học}{16}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Thí nghiệm D: mức khám phá}{18}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Thí nghiệm E: so sánh công bằng trên nhiều seed}{19}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Trả lời mười câu hỏi}{21}{chapter.5}%
+\contentsline {section}{Câu 1. Mô hình hóa agent và môi trường}{21}{section*.23}%
+\contentsline {section}{Câu 2. Quyết định dựa trên học và dựa trên luật}{22}{section*.23}%
+\contentsline {section}{Câu 3. Cập nhật Q-learning}{22}{table.caption.24}%
+\contentsline {section}{Câu 4. Khám phá và khai thác}{23}{table.caption.24}%
+\contentsline {section}{Câu 5. Phần thưởng và mục tiêu kinh doanh}{24}{table.caption.24}%
+\contentsline {section}{Câu 6. Đánh giá hiệu năng}{24}{table.caption.24}%
+\contentsline {section}{Câu 7. Tốc độ học và độ ổn định}{25}{table.caption.24}%
+\contentsline {section}{Câu 8. Tương tác nhiều agent và tính không dừng}{25}{table.caption.24}%
+\contentsline {section}{Câu 9. Hạn chế và độ bền vững}{27}{figure.caption.26}%
+\contentsline {section}{Câu 10. Thiết kế agent tốt hơn}{29}{figure.caption.29}%
+\contentsline {chapter}{\numberline {6}Thảo luận, hạn chế và đề xuất}{32}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Phân biệt quan sát và giải thích}{32}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Các nhận xét chung}{32}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Hạn chế của chính báo cáo này}{33}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Đề xuất cải tiến}{33}{section.6.4}%
+\contentsline {chapter}{\numberline {7}Kết luận}{34}{chapter.7}%

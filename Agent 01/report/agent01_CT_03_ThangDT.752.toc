@@ -1,0 +1,19 @@
+\contentsline {chapter}{\numberline {1}Tổng quan về AI Agents}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Khái niệm, mức tự chủ và phạm vi}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Thành phần của một agent}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Quy trình hoạt động từ mục tiêu đến hành động}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Tình huống minh họa: xử lý yêu cầu khách hàng}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Các cách phân loại AI Agents}{4}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Thiết kế một agent và hệ nhiều agent}{4}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Ứng dụng và giá trị có thể tạo ra}{5}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Đánh giá hiệu quả trước khi mở rộng}{6}{section.1.8}%
+\contentsline {section}{\numberline {1.9}Rủi ro và nguyên tắc kiểm soát}{6}{section.1.9}%
+\contentsline {section}{\numberline {1.10}Liên hệ với agent Q-learning trong notebook}{7}{section.1.10}%
+\contentsline {chapter}{\numberline {2}Phân tích notebook Q-learning giải mê cung}{8}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Bước 1: Tạo mê cung và xác định điểm đầu, đích}{8}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Bước 2: Đặt tham số và khởi tạo bảng Q}{9}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Bước 3: Kiểm tra ô hợp lệ và chọn hành động}{9}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Bước 4: Huấn luyện agent bằng Q-learning}{9}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Bước 5: Trích xuất đường đi từ bảng Q}{10}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Bước 6: Hiển thị mê cung và đường đi}{11}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Bước 7: Hiển thị phần thưởng qua các episode}{13}{section.2.7}%

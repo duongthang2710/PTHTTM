@@ -1,0 +1,22 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Lợi nhuận kỳ vọng một bước của agent $i$ theo nhu cầu $d$ và hành động hiện tại $b$ của đối thủ (output của chương trình).}}{4}{table.caption.5}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Các thành phần chính của chương trình.}}{5}{table.caption.6}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Tham số tham chiếu và cấu hình tái lập.}}{6}{table.caption.7}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Kết quả đánh giá baseline (seed 42, 10.000 bước đánh giá).}}{13}{table.caption.8}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Thưởng trung bình mỗi bước trong huấn luyện theo cửa sổ 500 episode (seed 42).}}{14}{table.caption.9}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Ảnh hưởng của tốc độ học (10 seed). ``Tối ưu'' là số seed có chính sách cuối đạt 35{,}00 kỳ vọng; ``Đổi chính sách'' là số lần chính sách tham lam thay đổi trong 2.500 episode cuối.}}{16}{table.caption.13}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Ảnh hưởng của khám phá (10 seed). Thưởng huấn luyện là trung bình 5.000 episode.}}{18}{table.caption.17}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces Bảng kết quả theo gợi ý của đề bài (đánh giá tham lam, 10 seed, 10.000 bước mỗi seed).}}{19}{table.caption.20}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces So sánh từng cặp RL--luật trên cùng chuỗi nhu cầu (\texttt {multi\_seed\_summary.csv}).}}{19}{table.caption.21}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces So sánh agent RL và agent dựa trên luật.}}{22}{table.caption.24}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces Đối thủ cố định và hai agent cùng học (đánh giá tham lam, 10 seed).}}{25}{table.caption.25}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces Giá trị kỳ vọng chính xác mỗi bước của các chính sách mốc trong từng kịch bản.}}{28}{table.caption.27}%
+\contentsline {table}{\numberline {5.4}{\ignorespaces Lợi nhuận đánh giá mỗi bước (TB $\pm $ SD, 10 seed) và số seed đạt tối ưu. Kịch bản doanh thu báo lợi nhuận thực tế, không phải doanh thu.}}{28}{table.caption.28}%
+\contentsline {table}{\numberline {5.5}{\ignorespaces Regret = tối ưu $-$ giá trị kỳ vọng chính xác (TB 10 seed). Kịch bản doanh thu tính theo đơn vị doanh thu.}}{30}{table.caption.30}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Quan sát đo được và mức độ chắc chắn của giải thích.}}{32}{table.caption.31}%
+\addvspace {10\p@ }
